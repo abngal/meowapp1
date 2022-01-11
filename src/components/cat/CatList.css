@@ -1,0 +1,9 @@
+.cat-list-container { 
+    text-align: left;
+    margin-left: 5rem;
+    margin-top: 2rem;
+}
+
+a {
+    text-decoration: none !important;
+}
