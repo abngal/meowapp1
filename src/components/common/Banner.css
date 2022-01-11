@@ -1,0 +1,9 @@
+.alert-msg-container {
+    width: 80%;
+    margin: auto;
+    
+}
+.close-button {
+    float: right;
+}
+/* style={{ float: 'right', marginLeft: 'auto '} */
