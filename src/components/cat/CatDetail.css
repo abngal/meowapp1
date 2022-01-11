@@ -1,0 +1,10 @@
+.cat-detail-container {
+    text-align: left;
+    min-width: 30%;
+    width: 30%;
+}
+
+.cat-detail-container img {
+    min-width: 100%;
+    min-height: 15rem;
+}
