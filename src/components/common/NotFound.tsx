@@ -11,7 +11,7 @@ const NotFound: React.FC = () => {
             navigate("/")
         }, timeBeforeRedirect * 1000 );
 
-    }, []);
+    }, [navigate]);
 
     return (
         <div>
